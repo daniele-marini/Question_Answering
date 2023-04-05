@@ -13,7 +13,7 @@ and in order to do this, it is necessary to extract relevant informations from t
 * Iulian Zorila
 
 # Dataset
-For the project we used the  CoQA (Conversational Question Answering) dataset.
+For the project we used the  [CoQA (Conversational Question Answering) dataset](https://arxiv.org/pdf/1808.07042.pdf).
 Each element of the dataset contains a text (e.g. an article) and a set of conversations (question/answers). The main challenge of the dataset is that some questions don't refer directly to the context but to the previous conversations (which will be referred to as history).
 Here an example of conversation:
 ![image](https://github.com/DANIELEMARINI99/Question_Answering/blob/main/CoQa-conversation.png)
